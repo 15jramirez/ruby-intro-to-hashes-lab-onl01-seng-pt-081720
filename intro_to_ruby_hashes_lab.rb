@@ -2,8 +2,8 @@ def new_hash
  hash={}
 end
 
-def actor (hash)
- hash={:name => "Dwayne The Rock Jonson"}
+def actor
+ actor = {:name => "Dwayne The Rock Jonson"}
 
 end
 
