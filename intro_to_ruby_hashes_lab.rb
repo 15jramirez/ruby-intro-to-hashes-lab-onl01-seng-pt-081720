@@ -3,7 +3,7 @@ def new_hash
 end
 
 def actor (hash)
- actor = { :name => "Dwayne The Rock Jonson"}
+ hash={:name => "Dwayne The Rock Jonson"}
 
 end
 
